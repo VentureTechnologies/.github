@@ -4,7 +4,7 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 Desarrolladores e implementadores de Odoo en Costa Rica
 ---------------
 
-Ayudamos a empresas y emprendedores a ahorrar tiempo y dinero, con nuestro servicio integral, optimizamos sus procesos apoyados de la tecnología de Odoo y protegemos su información con las mejores practicas de ciberseguridad. 🇨🇷
+Ayudamos a empresas y emprendedores a ahorrar tiempo y dinero, con nuestro servicio integral, optimizamos sus procesos apoyados en la tecnología de Odoo y protegemos su información con las mejores practicas de ciberseguridad. 🇨🇷
 
 * 🌍  Estamos ubicados en Heredia, Costa Rica
 * ✉️  Nos pueden contactar: [info@venturetech.site](mailto:info@venturetech.site)
